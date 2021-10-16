@@ -254,6 +254,13 @@ ul
     transform: scale(1.1);
 
 }
+@media (min-width: 900px) {
+.pic:hover
+{
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
 @media (max-width: 720px)
 {
 .heading
