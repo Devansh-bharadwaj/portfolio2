@@ -247,12 +247,13 @@ ul
     transition: 0.4s;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.400);
 }
-
+@media (min-width: 900px) {
 .pic:hover
 {
     cursor: pointer;
     transform: scale(1.1);
 
+}
 }
 @media (max-width: 720px)
 {
@@ -605,7 +606,7 @@ ul
     position: absolute;
     height: 100%;
     width: 100%;
-    top: 220%;
+    top: 190%;
 }
 
 .skillbox2
@@ -676,7 +677,7 @@ ul
     .pbox
 {
     position: absolute;
-    top: 380%;
+    top: 320%;
 
 }
 .container
@@ -775,7 +776,7 @@ textarea
 }
 .contactbox
 {
-    top: 550%;
+    top: 490%;
 
 }
 .contact
@@ -864,7 +865,7 @@ textarea
 .linkbox
 {
   position: absolute;
-  top: 660%;
+  top: 590%;
 
 }
 .linkbox p
