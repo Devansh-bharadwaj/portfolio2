@@ -248,12 +248,6 @@ ul
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.400);
 }
 
-.pic:hover
-{
-    cursor: pointer;
-    transform: scale(1.1);
-
-}
 @media (min-width: 900px) {
 .pic:hover
 {
